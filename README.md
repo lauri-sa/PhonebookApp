@@ -20,7 +20,7 @@ The application features input validation to ensure that names are not empty and
 
 **Install dependencies:** `npm install readline-sync`
 
-**Run the application:** `node index.js`
+**Run the application:** `node phonebook.js`
 
 Follow the on-screen prompts to manage your phonebook.
 
