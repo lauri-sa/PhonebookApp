@@ -14,7 +14,7 @@ The application features input validation to ensure that names are not empty and
 
 ## Installation
 
-**Clone the repository:** `git clone https://github.com/yourusername/PhonebookApp.git`
+**Clone the repository:** `git clone https://github.com/lauri-sa/PhonebookApp.git`
 
 **Navigate to the project directory:** `cd PhonebookApp`
 
